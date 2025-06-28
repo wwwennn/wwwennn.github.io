@@ -16,8 +16,7 @@ timezone:
 
 title: Wen Z. # the main title
 
-tagline: Senior software engineer with a Master’s degree in Computer Science and 7 years of professional experience in designing
-and implementing large-scale distributed system architecture and data infrastructure. # it will display as the subtitle
+tagline: Senior software engineer with a Master’s degree in Computer Science and 7 years of professional experience in designing and implementing large-scale distributed system architecture and data infrastructure. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A blog about Wen's tech experience.
