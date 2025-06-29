@@ -5,8 +5,6 @@ categories: [LeetCode]
 tags: [leetcode, prefix sum, backtracking]
 ---
 
-# LC 437. Path Sum III
-
 Link: https://leetcode.com/problems/path-sum-iii/
 
 ## Description
@@ -46,7 +44,8 @@ Then for LC 437, it's similar. What's changed is that we need to do a traveral o
 
 For an array, when we're at an index `i`, there's only one next element that is `i+1`. But for a binary tree, when we're at a node `root`, there are 2 next elements to traverse, `root.left` and `root.right`.
 
-With the above idea, it's straighforward to get the following solution:
+So we know the idea to solve the problem, then the question is how to implement the idea. It's obvious that we need to do DFS because we need to find paths. For each path, we need to track its prefix sum. It's expensive to use a `defaultdict` for each path so backtracking comes into play.
+
 ```
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
