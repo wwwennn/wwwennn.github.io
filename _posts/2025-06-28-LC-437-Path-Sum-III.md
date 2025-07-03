@@ -13,7 +13,7 @@ Given the `root` of a binary tree and an integer `targetSum`, return the number 
 
 The path does not need to start or end at the root or a leaf, but it must go downwards (i.e., traveling only from parent nodes to child nodes).
 
-** Example **
+**Example**
 
 ![example](../assets/lc-437-example.png)
 
