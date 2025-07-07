@@ -38,7 +38,7 @@ health and maintainability.
 
 ## EDUCATION
 **University of Pennsylvania**, Philadelphia, PA \
-Master of Computer and Information Technology (August 2016 - May 2018) \
+Master of Computer and Information Technology (August 2016 - May 2018) 
 
 **Nanjing University**, Nanjing, China \
 Bachelor of Economics, Major in Finance (September 2012 - June 2016)
